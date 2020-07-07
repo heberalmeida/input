@@ -12,6 +12,10 @@ npm i @heberalmeida/input -S
 yarn add @heberalmeida/input
 ```
 
+## DEMO
+[Demo](https://heberalmeida.github.io/input/)
+
+
 ## API
 
 | Param     | Description       | Type     | Default |
