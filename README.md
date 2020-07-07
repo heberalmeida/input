@@ -5,11 +5,11 @@
 ## Installation
 
 ``` bash
-npm i @jsheber/input -S
+npm i @heberalmeida/input -S
 ```
 
 ``` bash
-yarn add @jsheber/input
+yarn add @heberalmeida/input
 ```
 
 ## API
@@ -42,7 +42,7 @@ yarn add @jsheber/input
 </template>
 
 <script>
-import HInput from '@jsheber/input'
+import HInput from '@heberalmeida/input'
 
 export default {
   name: 'app',
@@ -67,7 +67,7 @@ export default {
 </template>
 
 <script>
-import HInput from '@jsheber/input'
+import HInput from '@heberalmeida/input'
 
 export default {
   name: 'app',
@@ -92,7 +92,7 @@ export default {
 </template>
 
 <script>
-import HInput from '@jsheber/input'
+import HInput from '@heberalmeida/input'
 
 export default {
   name: 'app',
@@ -121,7 +121,7 @@ export default {
 </template>
 
 <script>
-import HInput from '@jsheber/input'
+import HInput from '@heberalmeida/input'
 
 export default {
   name: 'app',
@@ -149,7 +149,7 @@ export default {
 </template>
 
 <script>
-import HInput from '@jsheber/input'
+import HInput from '@heberalmeida/input'
 
 export default {
   name: 'app',
@@ -178,7 +178,7 @@ export default {
 </template>
 
 <script>
-import HInput from '@jsheber/input'
+import HInput from '@heberalmeida/input'
 
 export default {
   name: 'app',
@@ -206,7 +206,7 @@ export default {
 </template>
 
 <script>
-import HInput from '@jsheber/input'
+import HInput from '@heberalmeida/input'
 
 export default {
   name: 'app',
@@ -234,7 +234,7 @@ export default {
 </template>
 
 <script>
-import HInput from '@jsheber/input'
+import HInput from '@heberalmeida/input'
 
 export default {
   name: 'app',
@@ -263,7 +263,7 @@ export default {
 </template>
 
 <script>
-import HInput from '@jsheber/input'
+import HInput from '@heberalmeida/input'
 
 export default {
   name: 'app',
@@ -291,7 +291,7 @@ export default {
 </template>
 
 <script>
-import HInput from '@jsheber/input'
+import HInput from '@heberalmeida/input'
 
 export default {
   name: 'app',
@@ -319,7 +319,7 @@ export default {
 </template>
 
 <script>
-import HInput from '@jsheber/input'
+import HInput from '@heberalmeida/input'
 
 export default {
   name: 'app',
@@ -348,7 +348,7 @@ export default {
 </template>
 
 <script>
-import HInput from '@jsheber/input'
+import HInput from '@heberalmeida/input'
 
 export default {
   name: 'app',

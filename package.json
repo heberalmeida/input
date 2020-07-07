@@ -1,7 +1,6 @@
 {
-  "name": "@jsheber/input",
-  "version": "0.0.1",
-  "private": true,
+  "name": "@heberalmeida/input",
+  "version": "1.0.0",
   "main": "./src/components/Input.vue",
   "scripts": {
     "serve": "vue-cli-service serve",
